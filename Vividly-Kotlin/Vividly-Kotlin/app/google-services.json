@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "662629102937",
+    "firebase_url": "https://vividly-96.firebaseio.com",
+    "project_id": "vividly-96",
+    "storage_bucket": "vividly-96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662629102937:android:0591f1fb8be14107468848",
+        "android_client_info": {
+          "package_name": "com.ishtiaqe.vividly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662629102937-4d7ds02fq9c9reerlbog9jkfo0qe2gdf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ishtiaqe.vividly",
+            "certificate_hash": "404b36cfc5e166f7909a518487432f34c68bbacd"
+          }
+        },
+        {
+          "client_id": "662629102937-aqqhf5tu8v2gpoc15oqff2ceh15mgmrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ishtiaqe.vividly",
+            "certificate_hash": "425ba45686b2fd1d0f120823a3383cf508909b47"
+          }
+        },
+        {
+          "client_id": "662629102937-hdlkhbo5ve6fgk4nn60aui2c4vto52vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhAkdgrV7M2hKQrgRupO7gGB90VoN1rlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662629102937-hdlkhbo5ve6fgk4nn60aui2c4vto52vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
